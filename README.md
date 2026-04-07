@@ -41,7 +41,7 @@ www.fontsquirrel.com - FREE fonts for graphic designers - Ethan Dunham - https:/
 
 USER DEMO : 
 
-body {font-family: 'OpenDyslexic', sans-serif;  /* Charge la version regular */}
+body {font-family: 'OpenDyslexic', sans-serif;  /* Load the version regular */}
 h1 {font-weight: bold;  /*  Direct Use of : opendyslexic-bold-webfont */}
 em {font-style: italic; /* Direct Use of : opendyslexic-italic-webfont */}
 
