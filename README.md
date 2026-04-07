@@ -1,3 +1,5 @@
+![OD Cover](https://raw.githubusercontent.com/madjeek-web/open-dyslexic/main/OD-img.png)
+
 # OpenDyslexic Fonts & Resources
 
  For the OpenDyslexic font.
