@@ -77,6 +77,8 @@ OPENDYSLEXIC REGULAR - FOR OPTIMIZE ALL web browsers Respect the next order (pos
     font-display: swap;
 }
 
+![Squirrel Cover](https://raw.githubusercontent.com/madjeek-web/open-dyslexic/the-mirror/main/font_squirrel.jpg)
+
 #
 #
 #
