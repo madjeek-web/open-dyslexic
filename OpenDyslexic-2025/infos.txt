@@ -1,0 +1,8 @@
+OpenDyslexic : une police de caractères pour la dyslexie
+OpenDyslexic est une police de caractères conçue pour atténuer certains symptômes courants de la dyslexie. 
+OpenDyslexic est gratuite : sa dernière version utilise la licence SIL-OFL, vous permettant de l'utiliser 
+librement à des fins personnelles, professionnelles, éducatives, commerciales, pour des livres, des liseuses, 
+des applications, des sites web, et pour tout autre projet.
+
+
+Version : OpenDyslexic V. 29 novembre 2025
