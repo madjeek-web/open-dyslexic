@@ -21,9 +21,9 @@ CDN jsDelivr : https://cdn.jsdelivr.net/gh/madjeek-web/open-dyslexic@main/OpenDy
 
 
 
-OPENDYSLEXIC - Famille complète (Regular, Bold, Italic, Bold Italic)
+OPENDYSLEXIC - complete family (Regular, Bold, Italic, Bold Italic)
 
-Ordre des formats : EOT, WOFF2, WOFF, TTF, SVG pour une compatibilité maximale
+Order of formats : EOT, WOFF2, WOFF, TTF, SVG for maximum compatibility
 
 Converting TTF to WOFF otf svg... : https://convertio.co/fr/ttf-svg/ - https://www.fontsquirrel.com/tools/webfont-generator
 
