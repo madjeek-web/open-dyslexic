@@ -17,6 +17,6 @@
 
 - Open Dyslexic Mono (Windows, MacOS, Linux OTF) / 2024
 
-- Open Dyslexic2 (Windows, MacOS, Linux OTF) / 2024
+- Open Dyslexic 2 (Windows, MacOS, Linux OTF) / 2024
 
-- Open Dyslexic2 (rounded small-a version) (Windows, MacOS, Linux OTF) / 2024
+- Open Dyslexic 2 (rounded small-a version) (Windows, MacOS, Linux OTF) / 2024
